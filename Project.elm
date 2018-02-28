@@ -198,7 +198,7 @@ stylesheet =
         attrs =
             [ attribute "Rel" "stylesheet"
             , attribute "property" "stylesheet"
-            , attribute "href" "./Project/styles.css"
+            , attribute "href" "./styles.css"
             ]
 
         children =
